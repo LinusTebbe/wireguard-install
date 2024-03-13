@@ -6,4 +6,6 @@ This script will let you set up your own VPN server in no more than a minute, ev
 ### Installation
 Run the script and follow the assistant:
 
-`wget https://raw.githubusercontent.com/LinusTebbe/wireguard-install/master/wireguard-install.sh && bash wireguard-install.sh`
+```bash
+wget https://raw.githubusercontent.com/LinusTebbe/wireguard-install/master/wireguard-install.sh && bash wireguard-install.sh
+```
